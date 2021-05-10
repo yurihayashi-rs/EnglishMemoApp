@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/EnglishMemoApp/static/css/main.67deaa03.chunk.css",
+    "main.js": "/EnglishMemoApp/static/js/main.0c653f38.chunk.js",
+    "main.js.map": "/EnglishMemoApp/static/js/main.0c653f38.chunk.js.map",
+    "runtime-main.js": "/EnglishMemoApp/static/js/runtime-main.5cefc635.js",
+    "runtime-main.js.map": "/EnglishMemoApp/static/js/runtime-main.5cefc635.js.map",
+    "static/js/2.4d3a1cca.chunk.js": "/EnglishMemoApp/static/js/2.4d3a1cca.chunk.js",
+    "static/js/2.4d3a1cca.chunk.js.map": "/EnglishMemoApp/static/js/2.4d3a1cca.chunk.js.map",
+    "static/js/3.21f24e8c.chunk.js": "/EnglishMemoApp/static/js/3.21f24e8c.chunk.js",
+    "static/js/3.21f24e8c.chunk.js.map": "/EnglishMemoApp/static/js/3.21f24e8c.chunk.js.map",
+    "index.html": "/EnglishMemoApp/index.html",
+    "static/css/main.67deaa03.chunk.css.map": "/EnglishMemoApp/static/css/main.67deaa03.chunk.css.map",
+    "static/js/2.4d3a1cca.chunk.js.LICENSE.txt": "/EnglishMemoApp/static/js/2.4d3a1cca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cefc635.js",
+    "static/js/2.4d3a1cca.chunk.js",
+    "static/css/main.67deaa03.chunk.css",
+    "static/js/main.0c653f38.chunk.js"
+  ]
+}
