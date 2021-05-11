@@ -9,7 +9,7 @@
 
 # Usage
 ## trains
-もう一つのリポジトリEnglishApp_apiがアプリのAPIになります。
+もう一つのリポジトリEnglishMemoApp_APIがアプリのAPIになります。
 
 # Requirements
 - Python 3.7.3
