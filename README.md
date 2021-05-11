@@ -19,7 +19,7 @@
 - django
 
 # Note
-初めて１から作ったプロジェクトです！
+初プロジェクト
 
 # Author
 YURI HAYASHI
